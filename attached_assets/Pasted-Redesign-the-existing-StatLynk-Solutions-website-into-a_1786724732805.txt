@@ -1,0 +1,514 @@
+Redesign the existing StatLynk Solutions website into a premium, credible, enterprise-grade corporate technology website. Keep the existing application functional and preserve the current working navigation/routing, but significantly improve the content, structure, visual hierarchy, responsiveness, and brand positioning.
+
+IMPORTANT:
+
+* Do not create a generic AI-generated IT company website.
+* Make StatLynk Solutions feel like a real technology and consulting company.
+* Use the existing StatLynk branding where available.
+* Do not copy Hexaware or any other company's branding, text, logo, imagery, or proprietary design. The previously shared Hexaware screenshot is only inspiration for the professional enterprise-style services layout.
+* Do not invent customer names, certifications, awards, revenue figures, client logos, military ranks, classified information, or specific military operation names.
+* Keep all military experience descriptions professional and non-sensitive.
+
+## BRAND
+
+Company:
+StatLynk Solutions
+
+Tagline:
+Infinite Possibilities
+
+Position StatLynk as a technology and digital solutions company providing:
+
+* AI Survey Solutions
+* Managed IT Support Services
+* Cybersecurity & VAPT Services
+* Cloud & DevOps
+* Data Analytics & Business Intelligence
+* AI Automation & Digital Transformation
+* Software & Application Development
+* IT Infrastructure Management
+* Digital Workplace Solutions
+* Business Process Automation
+
+Brand personality:
+
+* Enterprise
+* Trustworthy
+* Secure
+* Modern
+* Intelligent
+* Operationally disciplined
+* Business-focused
+* Technology-driven
+
+Use the StatLynk brand colors:
+
+* Primary: #0F4C81
+* Secondary: #00A3E0
+* Accent: #00C896
+* Dark navy
+* White/light backgrounds
+
+Use the official StatLynk Solutions logo if it is already available in the project assets. Do not invent a replacement logo if the real logo exists.
+
+## GLOBAL NAVIGATION
+
+Create a polished responsive header with:
+
+StatLynk Solutions logo
+
+Navigation:
+Home
+About
+Services
+Industries
+Case Studies
+Insights
+Contact
+
+Add a prominent CTA:
+Get a Consultation
+
+Add a mobile hamburger menu.
+
+The header should have a premium enterprise appearance and work properly on desktop, tablet and mobile.
+
+## HOMEPAGE HERO
+
+Replace the generic hero messaging with:
+
+Headline:
+Technology. Intelligence. Security. Infinite Possibilities.
+
+Supporting text:
+We help organizations modernize technology, secure infrastructure, automate operations, and transform data into actionable business intelligence.
+
+Primary CTA:
+Explore Our Services
+
+Secondary CTA:
+Talk to Our Experts
+
+Add a credibility line below the CTA:
+
+Founded by an Indian Air Force Veteran | Nearly 20 Years of Operational Experience | Technology & Business Solutions
+
+Use a sophisticated enterprise visual treatment rather than excessive animations.
+
+## WHY STATLYNK SECTION
+
+Create a section titled:
+
+Why StatLynk Solutions?
+
+Intro:
+Technology should solve business problems, strengthen resilience and create measurable outcomes. StatLynk combines technology expertise with an operational mindset built around discipline, security and reliability.
+
+Create four premium cards:
+
+1. Operational Discipline
+   Experience gained from demanding operational environments where reliability, accuracy, situational awareness and rapid decision-making matter.
+
+2. Security First
+   Security-conscious technology, infrastructure and cybersecurity solutions designed to help organizations reduce risk and improve resilience.
+
+3. Data-Driven Thinking
+   Analytics, survey intelligence, AI and automation that transform information into meaningful business decisions.
+
+4. Business-Focused Technology
+   Practical technology solutions designed around business outcomes, efficiency, scalability and long-term value.
+
+## FOUNDER / LEADERSHIP SECTION
+
+Create a visually strong section titled:
+
+Built on Discipline. Driven by Experience.
+
+Subtitle:
+Founder & Technology Solutions Leader | Indian Air Force Veteran
+
+Use the founder information carefully and professionally:
+
+The founder of StatLynk Solutions is an Indian Air Force veteran with nearly two decades of service experience.
+
+During his military career, he worked in demanding operational environments including Operations Rooms, missile control environments and radar stations, where situational awareness, precision, communication, reliability and rapid decision-making were critical.
+
+He handled high-pressure operational situations and participated in multiple operational assignments, developing a strong understanding of resilience, risk management, teamwork, discipline and mission-critical operations.
+
+Today, he brings that operational mindset into the technology industry through StatLynk Solutions, helping organizations strengthen IT infrastructure, cybersecurity, cloud environments, data capabilities and digital operations.
+
+Do NOT claim specific military ranks, medals, classified missions, exact operation names, security-sensitive details or achievements that have not been provided.
+
+Add a CTA:
+Meet Our Leadership
+
+If there is no founder photograph in the project assets, use an elegant placeholder area or professional abstract visual. Do not generate a fake person's photograph.
+
+## FROM DEFENCE TO DIGITAL
+
+Create a distinctive visual section titled:
+
+From Defence to Digital
+
+Subtitle:
+Mission-Ready Thinking for Modern Business
+
+Create two connected columns.
+
+Left:
+Military Operations
+
+Items:
+
+* Discipline
+* Situational Awareness
+* Risk Management
+* Mission Readiness
+* Resilience
+* Decision Making
+
+Right:
+StatLynk Solutions
+
+Items:
+
+* IT Operations
+* Cybersecurity
+* Cloud & DevOps
+* Data & Analytics
+* AI Automation
+* Digital Transformation
+
+Create a subtle connecting visual showing how operational experience translates into technology leadership.
+
+Keep this corporate and sophisticated. Do not make the website look like a military recruitment site.
+
+## SERVICES SECTION
+
+Create an enterprise services section inspired by modern global IT-services websites.
+
+Use a two-column grid of large service cards with:
+
+* Service title
+* Short description
+* Arrow/CTA affordance
+* Hover animation
+* Clean white/dark contrast
+* Premium spacing
+* Responsive behavior
+
+Add a right-side "Our Offerings" list on desktop and convert it into an appropriate responsive layout on mobile.
+
+Services:
+
+1. AI Survey Solutions
+   Design intelligent survey platforms, feedback systems and AI-powered survey analytics for organizations that need faster insights from customer, employee, citizen and stakeholder feedback.
+
+2. Managed IT Support Services
+   Reliable IT support, monitoring, troubleshooting and infrastructure management to help businesses maintain secure and productive technology environments.
+
+3. Cybersecurity & VAPT Services
+   Security assessments, vulnerability assessment and penetration testing, infrastructure hardening and cybersecurity improvement services.
+
+4. Cloud & DevOps
+   Cloud infrastructure, automation, CI/CD, containerization, infrastructure as code, monitoring and DevOps transformation.
+
+5. Data Analytics & Business Intelligence
+   Turn business data into dashboards, insights, trends and actionable intelligence using modern analytics and BI approaches.
+
+6. AI Automation & Digital Transformation
+   Automate repetitive processes and use AI to improve productivity, decision-making and customer experiences.
+
+7. Software & Application Development
+   Build modern business applications, portals, SaaS products, dashboards and digital platforms.
+
+8. IT Infrastructure Management
+   Infrastructure assessment, server management, virtualization, networking, backup, monitoring and operational support.
+
+9. Digital Workplace
+   Help organizations improve employee productivity through modern workplace technology, collaboration and secure access.
+
+10. Business Process Automation
+    Identify manual processes and automate workflows to reduce effort, errors and operational costs.
+
+## INDUSTRIES SECTION
+
+Create:
+
+Industries We Serve
+
+Include cards for:
+
+Healthcare
+Education
+Small & Medium Businesses
+Startups
+Government & Public Sector
+Professional Services
+Retail & E-commerce
+Research & Survey Organizations
+
+Keep descriptions concise and business-oriented.
+
+## OUR APPROACH
+
+Create a section titled:
+
+From Challenge to Outcome
+
+Five steps:
+
+01 — Understand
+Understand the business, technology and operational challenge.
+
+02 — Assess
+Identify risks, inefficiencies and opportunities.
+
+03 — Design
+Develop a practical and scalable technology strategy.
+
+04 — Implement
+Deploy secure, reliable and maintainable solutions.
+
+05 — Optimize
+Continuously improve performance, security and business outcomes.
+
+Use a horizontal timeline on desktop and vertical timeline on mobile.
+
+## TRUST / DIFFERENTIATOR SECTION
+
+Create a premium banner:
+
+Built with the mindset of mission-critical operations.
+
+Supporting text:
+Discipline. Resilience. Security. Precision. Reliability.
+
+Then explain that StatLynk brings an operational mindset into modern technology delivery.
+
+Do not make unsupported claims such as "military-grade security".
+
+## CASE STUDIES
+
+Keep the Case Studies section, but do not invent real clients or claim completed projects that have not been verified.
+
+Use clearly labeled examples such as:
+
+Example Solution:
+AI Survey Intelligence Platform
+
+Example Solution:
+Cloud & DevOps Modernization
+
+Example Solution:
+Cybersecurity & Infrastructure Assessment
+
+Example Solution:
+Business Process Automation
+
+Clearly label these as "Example Solutions" or "Solution Areas" if they are not actual client case studies.
+
+## INSIGHTS
+
+Create an Insights section for future content.
+
+Suggested categories:
+Cloud & DevOps
+Cybersecurity
+AI & Automation
+Data Analytics
+IT Infrastructure
+Digital Transformation
+
+Include CTA:
+Explore Insights
+
+Do not create fake statistics or fake publication dates.
+
+## CONTACT PAGE
+
+Redesign the current contact page.
+
+Headline:
+Let's Solve Your Technology Challenge
+
+Supporting text:
+Whether you need to modernize your infrastructure, strengthen cybersecurity, automate business processes, analyze your data or build a new digital solution, let's discuss how StatLynk Solutions can help.
+
+Contact form fields:
+
+* Name
+* Work Email
+* Company
+* Phone
+* Service Required
+* Message
+
+CTA:
+Request a Consultation
+
+Use the actual company email:
+[info@statlynksolutions.com](mailto:info@statlynksolutions.com)
+
+Do not use fake addresses such as New York headquarters or fake telephone numbers. Remove any placeholder contact information that currently appears in the site unless it is verified.
+
+## ABOUT PAGE
+
+Create a strong About page containing:
+
+About StatLynk Solutions
+
+Our Story
+
+Founder & Leadership
+
+From Defence to Digital
+
+Our Capabilities
+
+Our Values
+
+Why Clients Choose Us
+
+Let's Work Together
+
+Use the founder story above, while keeping the wording professional and non-sensitive.
+
+## VALUES
+
+Create six values:
+
+Discipline
+Integrity
+Security
+Reliability
+Innovation
+Customer Focus
+
+## FOOTER
+
+Create a premium corporate footer containing:
+
+StatLynk Solutions
+Infinite Possibilities
+
+Quick Links:
+Home
+About
+Services
+Industries
+Case Studies
+Insights
+Contact
+
+Services:
+AI Survey Solutions
+Managed IT Support
+Cybersecurity & VAPT
+Cloud & DevOps
+Data Analytics
+AI Automation
+
+Contact:
+[info@statlynksolutions.com](mailto:info@statlynksolutions.com)
+
+Website:
+statlynksolutions.com
+
+Include social links only if they are configured in the project. Do not invent URLs.
+
+## DESIGN REQUIREMENTS
+
+Make the entire website look premium and enterprise-grade.
+
+Use:
+
+* Strong typography
+* Excellent whitespace
+* Consistent spacing
+* Subtle gradients
+* Modern cards
+* Soft borders
+* Elegant shadows
+* Smooth hover states
+* Small tasteful animations
+* Professional iconography
+* Responsive layouts
+* Accessibility-conscious contrast
+* Clear CTA hierarchy
+
+Avoid:
+
+* Excessive animations
+* Neon cyberpunk styling
+* Generic stock imagery
+* Fake statistics
+* Fake testimonials
+* Fake customer logos
+* Fake awards
+* Fake certifications
+* Fake office addresses
+* Overly military-looking graphics
+
+The website should communicate:
+
+"An experienced, disciplined and security-conscious technology company that helps organizations solve real business and technology problems."
+
+## RESPONSIVE REQUIREMENTS
+
+Test and optimize:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+Ensure:
+
+* Navigation works on mobile
+* Cards stack correctly
+* Typography scales appropriately
+* Forms work properly
+* Buttons remain accessible
+* No horizontal scrolling
+* Images and sections remain visually balanced
+
+## SEO
+
+Add appropriate:
+
+* Page titles
+* Meta descriptions
+* Open Graph metadata
+* Semantic headings
+* Descriptive image alt text
+* Clean URLs
+
+Primary brand:
+StatLynk Solutions
+
+Suggested SEO positioning:
+IT Services
+Cybersecurity
+Cloud & DevOps
+Data Analytics
+AI Automation
+Managed IT Support
+Digital Transformation
+
+## IMPORTANT FINAL CHECK
+
+Before finishing:
+
+1. Preserve existing working functionality.
+2. Make sure all navigation links work.
+3. Remove fake placeholder company information.
+4. Ensure the founder story is accurate to the information provided.
+5. Ensure no sensitive military operational information is exposed.
+6. Ensure the site works on mobile.
+7. Ensure there are no broken links or console errors.
+8. Keep the design professional enough for enterprise clients.
+9. Do not publish or deploy the website yet.
+10. Do not connect GitHub or Vercel yet.
+11. First finish the website and verify the Replit preview.
+12. Tell me what was changed after the redesign is complete.

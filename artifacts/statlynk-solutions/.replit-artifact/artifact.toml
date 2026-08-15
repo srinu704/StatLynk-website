@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "StatLynk Solutions"
+description = "A premium enterprise technology and digital solutions website for StatLynk Solutions, helping organizations modernize technology, strengthen security, automate operations, and turn data into actionable business intelligence."
+version = "1.0.0"
+id = "artifacts/statlynk-solutions"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18890
+
+[services.development]
+run = "pnpm --filter @workspace/statlynk-solutions run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/statlynk-solutions", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/statlynk-solutions/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18890"
+BASE_PATH = "/"

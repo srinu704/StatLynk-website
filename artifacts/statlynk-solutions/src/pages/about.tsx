@@ -1,0 +1,27 @@
+import { Arrow, PageHero, Shell } from '@/components/statlynk/shared';
+import { Link } from 'wouter';
+
+const values = [
+  ['01', 'Discipline', 'We bring structure, clarity and consistent follow-through to complex work.'],
+  ['02', 'Integrity', 'We communicate plainly, protect trust and do the right work for the right reasons.'],
+  ['03', 'Security', 'We consider risk, resilience and responsible access at every stage.'],
+  ['04', 'Reliability', 'We design technology people can depend on, day after day.'],
+  ['05', 'Innovation', 'We stay curious and apply modern tools where they create real value.'],
+  ['06', 'Customer Focus', 'We listen closely and shape practical solutions around your business.'],
+];
+
+export default function About() {
+  return (
+    <Shell meta={{ title: 'About | StatLynk Solutions', description: 'Learn how StatLynk Solutions brings operational discipline, security-conscious technology and business relevance to modern technology delivery.' }}>
+      <main>
+        <PageHero kicker="About StatLynk Solutions" title="A steady hand for a changing technology landscape." copy="StatLynk is a business-focused technology and digital solutions company helping organizations modernize, reduce risk, automate work and turn data into decisions." />
+        <section className="sl-section"><div className="sl-container sl-2col"><div><div className="sl-kicker">Our story</div><h2>Experience that translates.</h2></div><div><p className="sl-copy">StatLynk Solutions was founded to bring operational discipline to modern technology delivery. Its founder, an Indian Air Force veteran with nearly two decades of service experience, saw a clear opportunity: organizations need technology partners who understand both systems and the pressure of running a business.</p><p className="sl-copy">That perspective informs how StatLynk works today—from infrastructure and cybersecurity to data, automation and digital transformation.</p></div></div></section>
+        <section className="sl-section sl-dark"><div className="sl-container sl-leadership"><div className="sl-portrait" role="img" aria-label="Abstract visual for founder leadership" data-testid="visual-about-leadership" /><div><div className="sl-kicker">Founder &amp; leadership</div><h2>Operational experience. Business relevance.</h2><p className="sl-copy">During his military career, the founder worked in demanding operational environments where situational awareness, precision, communication, reliability and rapid decision-making were critical. He brings that experience into technology leadership without exposing sensitive operational details.</p><Link className="sl-btn sl-btn-outline" style={{ color: '#d3eef3', borderColor: '#5f91a7', marginTop: 20 }} href="/contact" data-testid="link-about-contact">Work with StatLynk <Arrow /></Link></div></div></section>
+        <section className="sl-section"><div className="sl-container"><div className="sl-kicker">From Defence to Digital</div><h2>Mission-ready thinking for modern business.</h2><div style={{ height: 24 }} /><div className="sl-columns"><div><h3>What experience taught us</h3><ul className="sl-list">{['Discipline', 'Situational Awareness', 'Risk Management', 'Resilience', 'Decision Making'].map((item) => <li key={item}>{item}</li>)}</ul></div><div><h3>How it shows up today</h3><ul className="sl-list">{['IT Operations', 'Cybersecurity', 'Cloud & DevOps', 'Data & Analytics', 'Digital Transformation'].map((item) => <li key={item}>{item}</li>)}</ul></div></div></div></section>
+        <section className="sl-section" style={{ paddingTop: 20 }}><div className="sl-container"><div className="sl-kicker">Our capabilities</div><h2>One partner across the technology picture.</h2><div style={{ height: 28 }} /><div className="sl-3col">{['AI Survey Solutions', 'Managed IT Support', 'Cybersecurity & VAPT', 'Cloud & DevOps', 'Data Analytics & Business Intelligence', 'AI Automation & Digital Transformation', 'Software & Application Development', 'IT Infrastructure Management', 'Digital Workplace', 'Business Process Automation'].map((item, index) => <article className="sl-card" key={item} data-testid={`card-about-capability-${index + 1}`}><div className="sl-num">0{index + 1}</div><h3>{item}</h3></article>)}</div></div></section>
+        <section className="sl-section"><div className="sl-container"><div className="sl-kicker">Our values</div><h2>How we show up.</h2><div style={{ height: 28 }} /><div className="sl-grid-4">{values.map(([num, title, text]) => <article className="sl-card sl-value" key={title} data-testid={`card-about-value-${num}`}><div className="sl-num">{num}</div><h3>{title}</h3><p>{text}</p></article>)}</div></div></section>
+        <section className="sl-banner"><div className="sl-container"><div className="sl-kicker" style={{ color: '#9de2df' }}>Why clients choose us</div><h2>Clear thinking. Careful execution.</h2><p>We bring a security-conscious, business-focused point of view to every engagement—without unnecessary complexity or unsupported promises.</p><Link className="sl-btn sl-btn-outline" style={{ color: 'white', borderColor: 'rgba(255,255,255,.4)', marginTop: 14 }} href="/contact" data-testid="link-about-together">Let’s work together <Arrow /></Link></div></section>
+      </main>
+    </Shell>
+  );
+}
