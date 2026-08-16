@@ -1,0 +1,1 @@
+- [Deploy build boundary](deploy-build-boundary.md) — root production builds target StatLynk only; mockup workflows stay outside deployment.
