@@ -7,4 +7,4 @@ The repository root production build is intentionally scoped to the StatLynk Sol
 
 **Why:** Static hosting builds run without Replit workflow environment variables, so a workspace-wide build can fail before reaching the actual frontend.
 
-**How to apply:** Keep the root `build` script deploy-focused. Use the separate workspace-wide build script only when validating the whole monorepo. The StatLynk Vite config should default `PORT` and `BASE_PATH` for static builds while still honoring workflow-provided values.
+**How to apply:** Keep both the root `build` script and Vercel's `buildCommand` deploy-focused, with the Vercel output directory set to the StatLynk static bundle. Use the separate workspace-wide build script only when validating the whole monorepo. The StatLynk Vite config should default `PORT` and `BASE_PATH` for static builds while still honoring workflow-provided values.
