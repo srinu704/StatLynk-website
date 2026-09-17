@@ -11,6 +11,8 @@ import Industries from '@/pages/industries';
 import CaseStudies from '@/pages/case-studies';
 import Insights from '@/pages/insights';
 import Contact from '@/pages/contact';
+import PrivacyPolicy from "@/pages/privacy-policy";
+import Disclaimer from "@/pages/disclaimer";
 import {
   Route,
   Switch,
@@ -33,6 +35,8 @@ function Router() {
         <Route path="/case-studies" component={CaseStudies} />
         <Route path="/insights" component={Insights} />
         <Route path="/contact" component={Contact} />
+        <Route path="/privacy-policy" component={PrivacyPolicy} />
+        <Route path="/disclaimer" component={Disclaimer} />
         <Route component={NotFound} />
       </Switch>
     </RoutedErrorBoundary>
